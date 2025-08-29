@@ -1,7 +1,7 @@
 # Python Programming Exam
 **Time Limit: 3 hours**  
 **Total Points: 100**
-
+*ignore this message its just me trying git,this message will be added,commited and pushed in couple minutes*
 ## Instructions
 - Read all questions carefully before starting
 - Code must be properly commented
